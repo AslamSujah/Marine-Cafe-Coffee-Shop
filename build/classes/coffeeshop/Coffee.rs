@@ -1,0 +1,13 @@
+coffeeshop.Status
+coffeeshop.Coffee$8
+coffeeshop.Coffee$9
+coffeeshop.Coffee$10
+coffeeshop.Status1
+coffeeshop.Coffee$6
+coffeeshop.Coffee$7
+coffeeshop.Coffee$4
+coffeeshop.Coffee$5
+coffeeshop.Coffee$2
+coffeeshop.Coffee$3
+coffeeshop.Coffee$1
+coffeeshop.Coffee

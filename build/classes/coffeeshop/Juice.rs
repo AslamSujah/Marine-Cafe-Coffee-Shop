@@ -1,0 +1,12 @@
+coffeeshop.Status5
+coffeeshop.Juice$10
+coffeeshop.Juice$9
+coffeeshop.Juice$8
+coffeeshop.Juice$5
+coffeeshop.Juice$4
+coffeeshop.Juice$7
+coffeeshop.Juice$6
+coffeeshop.Juice
+coffeeshop.Juice$1
+coffeeshop.Juice$3
+coffeeshop.Juice$2
